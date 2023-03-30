@@ -1,1 +1,1 @@
-# Diabetes-Predicition-Model-
+# **DiabetesPredicition Model**
